@@ -5,6 +5,17 @@
 ### 1.	DESCRIÇÃO
 Os alunos devem se organizar em equipes de no mínimo 3 pessoas e no máximo 4 pessoas. Equipes com menos ou mais integrantes receberão nota zero na atividade. Cada equipe deverá escolher um nome de “time de desenvolvimento”. Essa equipe deverá ter um integrante líder, que fará a entrega do trabalho final.
 
+```
+       _=,_         
+    o_/6 /#\        
+    \__ |##/        
+     ='|--\         
+       /   #'-.     
+       \#|_   _'-. /
+        |/ \_( # |" 
+       C/ ,--___/       
+```
+
 Apresentado no dia 23 de novembro de 1996, o Tamagotchi era uma espécie de chaveiro que abrigava um bichinho virtual que pedia por doses regulares de alimento virtual, atenção virtual e carinho virtual. Agora, você! Isso mesmo, você, junto de seu time de desenvolvimento, terá a honra de implementar uma versão dessa febre dos anos 90.
 
 O virtual pet terá as seguintes informações atreladas a ele:
