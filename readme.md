@@ -49,7 +49,7 @@ Escolha uma opção a seguir:
 
 ### 1.1 Detalhamento de funções
 
--	**Avançar o tempo:** Ao escolher essa função, o jogador faz o pet “avançar 8 horas de vida” em seu tempo. Isso impactará em diversas das funcionalidades do bichinho virtual. A cada 24horas passadas, o pet envelhece um dia. O tempo máximo de vida para o pet é de 7 dias, após isso, ele morre de velhice. Nesse caso, o jogador ‘ganha o jogo’, pois fez com que seu bichinho vivesse feliz até o fim.
+-	**Avançar o tempo:** Ao escolher essa função, o jogador faz o pet “avançar 8 horas de vida” em seu tempo. Isso impactará em diversas das funcionalidades do bichinho virtual. A cada 24horas passadas, o pet envelhece um dia. O tempo máximo de vida para o pet é de 7 dias, após isso, ele morre de velhice. Nesse caso, o jogador ‘ganha o jogo’, pois fez com que seu bichinho vivesse feliz até o fim. A cada vez que o tempo é avançado, o pet modifica os seguintes status: A fome aumenta em 3. A felicidade diminui em 2. A Limpeza diminui em 2.
 
 -	**Alimentar:** Ao alimentar o pet, sua fome diminuirá em 4 pontos. Chegando ao máximo de fome 0. Tentar alimentar um pet que está com fome 0, fará com que sua felicidade diminua em 2 pontos.
 
